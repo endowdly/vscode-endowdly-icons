@@ -3,6 +3,7 @@
 	"displayName": "Endowdly's Icon Set",
 	"description": "Some basic pixel icons for VS Code",
 	"version": "0.0.1",
+	"publisher": "endowdly",
 	"engines": {
 		"vscode": "^1.0.0"
 	},
