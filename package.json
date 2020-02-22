@@ -1,0 +1,30 @@
+{
+	"name": "vscode-endowdly-icons",
+	"displayName": "Endowdly's Icon Set",
+	"description": "Some basic pixel icons for VS Code",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "vscode-endowdly-icons",
+				"label": "Endowdly Icon Set",
+				"path": "./icon-assignment.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/endowdly/vscode-endowdly-icons"
+	},
+	"icon": "icon.png",
+    "galleryBanner": {
+        "color": "#E64A00",
+        "theme": "dark"
+    }
+}
